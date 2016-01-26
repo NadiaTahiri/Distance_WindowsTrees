@@ -1,0 +1,2 @@
+#!/bin/sh
+executable/consense </home/nancy/Distance_WindowsTreesVersionLinux/executable/Inputs/inputCs >sortieCs

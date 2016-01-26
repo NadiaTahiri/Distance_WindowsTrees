@@ -1,0 +1,2 @@
+#!/bin/sh
+executable/seqboot </home/nancy/Distance_WindowsTreesVersionLinux/executable/Inputs/inputSB >sortieSB

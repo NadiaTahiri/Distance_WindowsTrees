@@ -1,0 +1,64 @@
+Date d'execution :Thu Jul 23 11:20:50 EDT 2015
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : NADH_Dehydrogenase_Subunit_4
+|Longueur Gene : 459
+|Nombre Especes : 19
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 10
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   TREES                   |
++-------------------------------------------+
+|=> TREE 1: 
+	Nombre d'especes sur l'arbre de distribution:23
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:7
+
+|=> TREE 2: 
+	Nombre d'especes sur l'arbre de distribution:52
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:18
+
+Result :
+=========================================================================================================================
+Positions	|RF Normalise (Tree 1)	RF Normalise (Tree 2)	|Boostrap Moyen (Tree 1)	Boostrap Moyen (Tree 2)	|
+-------------------------------------------------------------------------------------------------------------------------
+   *1 - 459  	|100                  	93                   	|63                     	0                      	|
+=========================================================================================================================
+
+Date d'execution :Thu Jan 21 13:35:47 EST 2016
++-------------------------------------------+
+|                    GENE                   |
++-------------------------------------------+
+|Nom Gene : NADH_Dehydrogenase_Subunit_4
+|Longueur Gene : 459
+|Nombre Especes : 19
+
++-------------------------------------------+
+|                   WINDOWS                 |
++-------------------------------------------+
+|Taille de la fenetre : 10
+|Pas d'avancement de la fenetre : 5
+
++-------------------------------------------+
+|                   TREES                   |
++-------------------------------------------+
+|=> TREE 1: 
+	Nombre d'especes sur l'arbre de distribution:23
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:7
+
+|=> TREE 2: 
+	Nombre d'especes sur l'arbre de distribution:52
+	Nombre d'especes identiques entre l'arbre de distribution et l'arbre d'especes:18
+
+Result :
+=========================================================================================================================
+Positions	|RF Normalise (Tree 1)	RF Normalise (Tree 2)	|Boostrap Moyen (Tree 1)	Boostrap Moyen (Tree 2)	|
+-------------------------------------------------------------------------------------------------------------------------
+   *1 - 459  	|100                  	93                   	|63                     	0                      	|
+=========================================================================================================================
+
